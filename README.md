@@ -21,5 +21,5 @@ This repo tracks my learning and contributions during my Data Analytics internsh
 - `/reports`: Final presentation, summary reports
 
 ## 📅 Weekly Logs
-- **Week 1**: Setup, dataset familiarization
+- **Week 1**: Setup, dataset familiarization, Python Basics
 - **Week 2**: ...
