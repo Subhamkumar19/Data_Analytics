@@ -1,4 +1,4 @@
-# Data_Analytics_internship
+# Data_Analytics
 My data analytics internship journey at CTTC 
 # CTTC Data Analytics Internship (Aug 2025 – Sept 2025)
 
