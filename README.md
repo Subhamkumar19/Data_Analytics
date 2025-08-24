@@ -1,6 +1,6 @@
 # Data_Analytics
-My data analytics internship journey at CTTC 
-# CTTC Data Analytics Internship (Aug 2025 – Sept 2025)
+My data analytics internship journey 
+# CTTC Data Analytics Internship 
 
 ## 🧠 About
 This repo tracks my learning and contributions during my Data Analytics internship at CTTC. It includes datasets, analysis notebooks, visualizations, and final reports.
